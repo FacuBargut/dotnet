@@ -1,0 +1,11 @@
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/bin/Debug/netcoreapp3.0/Etapa1
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.deps.json
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.runtimeconfig.json
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.runtimeconfig.dev.json
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.dll
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.pdb
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.csprojAssemblyReference.cache
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.AssemblyInfoInputs.cache
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.AssemblyInfo.cs
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.dll
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.pdb
