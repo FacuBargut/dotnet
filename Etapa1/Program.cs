@@ -7,30 +7,46 @@ namespace Etapa1
     {
         static void Main(string[] args)
         {   
-            var escuela = new Escuela("Natividad del Señor", 1992, TiposEscuela.Primaria,
+            var escuela = new Escuela("Natividad del Señor, el padre hignacio es un chanta", 1992, TiposEscuela.Primaria,
                 ciudad: "Rosario",pais: "Argentina" 
             );
 
-            var curso1 = new Curso(){
+            var arregloCursos = new Curso [3];
 
+            arregloCursos[0] = new Curso(){
                 Nombre = "101"
-                
             };
-
+            
             var curso2 = new Curso(){
                 Nombre = "201"
             };
+
+            arregloCursos[1] = curso2;
 
             var curso3 = new Curso(){
                 Nombre = "301"
             };
 
+            arregloCursos[2] = curso3;
+
+            
+
+
+
             Console.WriteLine(escuela);
             System.Console.WriteLine("===============");
-            Console.WriteLine(curso1.Nombre +","+curso1.UniqueId);
-            Console.WriteLine($"{curso2.Nombre}, {curso2.UniqueId}");
-            Console.WriteLine(curso3);
+            
 
+            ImprimirCursos(arregloCursos);
+
+
+            
+
+        }
+
+        private static void ImprimirCursos(Curso[] arregloCursos)
+        {
+            throw new NotImplementedException();
         }
     }
 }
