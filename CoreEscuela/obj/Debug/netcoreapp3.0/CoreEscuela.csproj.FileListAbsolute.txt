@@ -1,0 +1,11 @@
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/bin/Debug/netcoreapp3.0/CoreEscuela
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/bin/Debug/netcoreapp3.0/CoreEscuela.deps.json
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/bin/Debug/netcoreapp3.0/CoreEscuela.runtimeconfig.json
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/bin/Debug/netcoreapp3.0/CoreEscuela.runtimeconfig.dev.json
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/bin/Debug/netcoreapp3.0/CoreEscuela.dll
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/bin/Debug/netcoreapp3.0/CoreEscuela.pdb
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/obj/Debug/netcoreapp3.0/CoreEscuela.csprojAssemblyReference.cache
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/obj/Debug/netcoreapp3.0/CoreEscuela.AssemblyInfoInputs.cache
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/obj/Debug/netcoreapp3.0/CoreEscuela.AssemblyInfo.cs
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/obj/Debug/netcoreapp3.0/CoreEscuela.dll
+/home/ingenea-sw3/Escritorio/Fundamentos_C#/CoreEscuela/obj/Debug/netcoreapp3.0/CoreEscuela.pdb
